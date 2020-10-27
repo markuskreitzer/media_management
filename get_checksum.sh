@@ -1,3 +1,5 @@
+
+#DIR='/mnt/MEDIA/Media/Video/Movies'
 for i in $*
 do
     echo "Scanning $i"
